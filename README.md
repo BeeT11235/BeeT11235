@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Brian Tanner
 - 👀 I’m interested in too many things. I'm trying to pare the list down.
 - 🌱 I’m currently learning to be a computer scientist
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m working on a textual menu object.
 - 📫 How to reach me BeeT11235@gmail.com
 
 <!---
